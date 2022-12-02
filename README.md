@@ -1,2 +1,2 @@
 # ntpu
-CSV files for ML course
+Files for ML course
